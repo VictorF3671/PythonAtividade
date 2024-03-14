@@ -7,4 +7,4 @@ elif num < 0:
 elif num == 0:
     print("O número digitado é zero")
 
-print("deu certo")
+print("deu errado")
