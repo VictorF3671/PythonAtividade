@@ -6,3 +6,5 @@ elif num < 0:
     print("O número digitado é negativo")
 elif num == 0:
     print("O número digitado é zero")
+
+print("deu certo")
